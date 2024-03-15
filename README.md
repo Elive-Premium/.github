@@ -19,7 +19,7 @@ Since these repositories are private, you cannot clone them directly in other ma
 git clone https://YOURTOKEN@github.com/Elive-Premium/elive-for-servers.git
 ```
 
-## Premium Features
+## Premium Repositories
 _Note: To access to these repositories you must be a Premium member_
 
 * ### [Elivim](https://github.com/Elive-Premium/Elivim) : Neovim unique framework by Elive based on NvChad
