@@ -22,10 +22,10 @@ git clone https://YOURTOKEN@github.com/Elive-Premium/elive-for-servers.git
 ## Premium Features
 _Note: To access to these repositories you must be a Premium member_
 
-* ### [Elivim / Neovim framework](https://github.com/Elive-Premium/Elivim)
+* ### [Elivim](https://github.com/Elive-Premium/Elivim) : Neovim unique framework by Elive based on NvChad
 
-* ### [Gptuuu](https://github.com/Elive-Premium/gptuuu)
+* ### [Gptuuu](https://github.com/Elive-Premium/gptuuu) GPT type chat uncensored, unbiased, untracked
 
-* ### [Elive Assistant](https://github.com/Elive-Premium/elive-assistant)
+* ### [Elive Assistant](https://github.com/Elive-Premium/elive-assistant) : AI handy features directly on your desktop
 
-* ### [Elive for Servers](https://github.com/Elive-Premium/elive-for-servers)
+* ### [Elive for Servers](https://github.com/Elive-Premium/elive-for-servers) : Enhance your servers with Elive
