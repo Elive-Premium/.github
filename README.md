@@ -18,3 +18,14 @@ Since these repositories are private, you cannot clone them directly in other ma
 ```bash
 git clone https://YOURTOKEN@github.com/Elive-Premium/elive-for-servers.git
 ```
+
+## Premium Features
+_Note: To access to these repositories you must be a Premium member_
+
+* ### [Elivim / Neovim framework](https://github.com/Elive-Premium/Elivim)
+
+* ### [Gptuuu](https://github.com/Elive-Premium/gptuuu)
+
+* ### [Elive Assistant](https://github.com/Elive-Premium/elive-assistant)
+
+* ### [Elive for Servers](https://github.com/Elive-Premium/elive-for-servers)
