@@ -29,3 +29,5 @@ _Note: To access to these repositories you must be a Premium member_
 * ### [Elive Assistant](https://github.com/Elive-Premium/elive-assistant) : AI handy features directly on your desktop
 
 * ### [Elive for Servers](https://github.com/Elive-Premium/elive-for-servers) : Enhance your servers with Elive
+
+* ### [Desktop Clock](https://github.com/Elive-Premium/desktop-gadget-clock) : A desktop-agnostic clock gadget featuring EFL that can be run on E16 or other desktops
